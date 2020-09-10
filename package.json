@@ -1,0 +1,30 @@
+{
+  "name": "kapilchemical-company",
+  "version": "1.0.0",
+  "description": "kapil chemical ltd",
+  "main": "index.html",
+  "scripts": {
+    "start": "run lite server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChetanBhargav/kapilchemicals.git"
+  },
+  "author": "Chetan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChetanBhargav/kapilchemicals/issues"
+  },
+  "homepage": "https://github.com/ChetanBhargav/kapilchemical#readme",
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "fontawesome": "^5.6.3",
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1"
+  }
+}
